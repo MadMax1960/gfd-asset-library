@@ -117,7 +117,6 @@ The Suda mat is a style similar to Suda51 shading, seen in No More Heroes 1-3. I
 ### Scrolling Tex
 
 A scrolling texture mat, not much more to it. 
-![sc](https://media.discordapp.net/attachments/831687902824103977/1085129435658866749/scroll.gif?width=813&height=676)
 
 ### Persona
 
