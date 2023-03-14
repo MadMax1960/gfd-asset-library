@@ -126,4 +126,9 @@ A good default mat for summoned personas, has the blue glow and everything. Will
 
 ### dan character
 
-It's just a material for exporting to dancing games, works in p3, p4, and p5d. Will crash in P5R though. 
+It's just a material for exporting to dancing games, works in p3, p4, and p5d. Will crash in P5R though.
+## Contributing
+
+If you contribute, make sure to use the blend I posted here, make new uvspheres, add some random material, export, then replace the material as yml in **GFD Studio**. 
+
+Upload your gmd too so I can export and backup your material yml. 
