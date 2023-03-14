@@ -19,7 +19,7 @@ Please read through the entire readme, as just downloading this with even *basic
 
 A quick rundown of how to use these. 
 
-**MAKE SURE YOU HAVE THE GFS/GMS BLENDER PLUGIN**
+**MAKE SURE YOU HAVE THE GFS/GMD BLENDER PLUGIN**
 
 Download the gfd and blend file by clicking the Green "code" button then download as zip. Unzip the file and open the .blend in blender. 
 
